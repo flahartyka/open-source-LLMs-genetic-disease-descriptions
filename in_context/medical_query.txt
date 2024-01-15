@@ -1,0 +1,63 @@
+A child presents with congenital heart defect, athymia, broad nasal root, and learning disability
+A child presents with Kaiser-Fleischer ring, jaundice, abdominal swelling, and asymmetrical tremor
+A child presents with short stature, seizures, paroxysmal laughter, and unsteady gait
+A male infant presents with failure to thrive, almond-shaped eyes, hypogonadism, and hypotonia
+A child presents with neonatal hypotonia and hyperphagia in childhood
+A 3 year old boy presents with coarse facies, hepatosplenomegaly, and short stature
+A male child presents with developmental delay, macrotia, dolichocephaly, and macroorchidism
+A child presents with lip pits and hypodontia
+An infant presents with synophrys and bilateral forearm deficiency
+A child presents with hearing loss and long QT
+A child presents with pulmonary valve stenosis, hypertrophic cardiomyopathy and downslanted palpebral fissures
+An infant presents with atrial septal defect, radial anomaly, and upper limb reduction defects
+A female child presents with aortic coarctation and puffy hands and feet
+A child presents with pancreatic failure, sideroblastic anemia, and pancytopenia
+A female child presents with developmental regression at 2 years of age and repetitive hand movements
+A child presents with craniosynostosis and syndactyly
+A male child presents with thrombocytopenia, eczema, and recurrent infection
+A child presents with short stature and hitchhiker thumb
+An infant presents with cardiac rhabdomyoma
+A newborn presents with ambiguous genitalia and hypotension
+A child presents with splenomegaly, dermatitis, and hypertelorism
+An adult woman presents with macrocephaly, trichilemmomas, and breast cancer
+A child presents with cleft palate and a family history of stomach cancer
+A child presents with hypertension and retinal angiomata
+A child presents with a family history of breast cancer, leukemia, and a family history of osteosarcoma
+A child has recurrent episodes of fever, abdominal pain, joint pain and swelling, and muscle aches
+A child has polydactyly, hypothalamic hamartoma, and bifid epiglottis
+An infant with pulmonary hypoplasia has bilateral renal cysts and congenital hepatic fibrosis, and was born after a pregnancy affected by severe oligohydramnios. 
+A young adult presents with hematuria and hypertension, and is found to have multiple bilateral renal cysts and cysts in other organ systems, as well as cerebral aneurysms. 
+A teenager has multiple café-au-lait macules, axillary and inguinal freckling, and multiple cutaneous neurofibromas 
+An adult has aortic root dilatation, skin striae, scoliosis, pectus excavatum, pes planus, and ectopia lentis 
+An adult woman had arterial aneurysms, thin skin, and a history of uterine rupture during pregnancy 
+A child has frequent respiratory infections, poor weight gain, and exocrine pancreatic insufficiency 
+A teenager has episodes of dactylitis, acute chest syndrome, and chronic anemia 
+An infant has hypotonia, upslanted palpebral fissures, a complex cardiac anomaly, and congenital hypothyroidism 
+A toddler has cholestasis, a cardiac anomaly, butterfly vertebrae, and posterior embryotoxon 
+An adult has dark urine, spinal and knee arthritis, and ochronosis noted on knee replacement 
+A male child has renal failure, progressive hearing loss, and anterior lenticonus 
+A child has ataxia, frequent respiratory infections, and ocular and facial telangiectasias 
+An adolescent male has obesity, polydactyly, and retinal cone-rod dystrophy 
+A macrosomic neonate has macroglossia, an umbilical hernia, and hypoglycemia 
+An infant has an iris coloboma, a congenital heart anomaly, choanal atresia, and ear anomalies 
+A child has growth failure, progressive microcephaly and neurodegeneration, and photosensitivity 
+A 6 month-old male has growth deficiency, skeletal and genitourinary anomalies, and severe anemia 
+A teenage male has episodic severe extremity pain, angiokeratomas, hypohidrosis, corneal opacities and proteinuria 
+An infant has feeding difficulties, absence of overflow tears with emotional crying, and severe autonomic reactions to stress, with emesis, tachycardia, and sweating 
+A young man has recurrent epistaxis, multiple telangiectasias on the mouth, nose, and fingers, and visceral arteriovenous malformations 
+A child has oculocutaneous albinism, platelet dysfunction with bleeding diathesis, and immunodeficiency 
+A middle-aged man has psychiatric disturbance, ataxia, and chorea 
+A six-month old infant had a rash that was blistering, and is now progressing to verrucous 
+A child has disordered breathing, hypotonia, and developmental delay 
+An adult has lower-limb lymphedema and distichiasis 
+A 45-year old man has colorectal cancer, a strong family history of colorectal cancer and other cancer types, including endometrial cancer, skin cancer, and glioblastoma 
+An adolescent has gastrointestinal polyposis and oral mucocutaneous melanocytic macules 
+A child has angioid retinal streaks, dark skin papules on the neck, and gastrointestinal bleeds 
+A child has bone marrow dysfunction, exocrine pancreatic dysfunction, and skeletal anomalies  
+An infant has severe intrauterine growth restriction, a congenital cardiac anomaly, microcephaly, and 2-3 toe syndactyly 
+A child has overgrowth, macrocephaly, developmental delay, and distinctive facies including a prominent forehead 
+A child and her mother both have hearing loss, severe myopia, and Pierre-Robin sequence  
+An infant has thrombocytopenia and bilateral radial aplasia 
+A young adult has hearing loss and retinitis pigmentosa 
+An infant has congenital hearing loss, a white forelock, and blue irises 
+An eight year-old child has acute sun sensitivity with freckling, photophobia, and squamous cell carcinoma and basal cell carcinoma 
