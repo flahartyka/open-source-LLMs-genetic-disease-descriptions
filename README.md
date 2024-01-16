@@ -3,7 +3,7 @@ This is the github for "Applications of Open-Source Large Language Models in Cli
 
 LLM-specific question files and shell scripts can be found in the folders: 'llama' and 'vicuna'. 
 
-Examples of how to generate in-context prompts can be found in the folder: 'in_context'
+Examples of how to generate in-context prompts can be found in the folder: 'in_context'. 
 
 -----------------------------------------------------------------------------------------------------
 
