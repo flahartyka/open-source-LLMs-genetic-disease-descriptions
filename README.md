@@ -1,7 +1,7 @@
 
-This is the github for "Applications of Open-Source Large Language Models in Clinical Genetics"
+This is the github for "Evaluating Large Language Models on Medical, Lay Language and Self-Reported Descriptions of Genetic Conditions"
 
-LLM-specific question files and shell scripts can be found in the folders: 'llama' and 'vicuna'. 
+LLM-specific question files and shell scripts can be found in the folders: `llama` and `vicuna`. 
 
 Examples of how to generate in-context prompts can be found in the folder: 'in_context'. 
 
