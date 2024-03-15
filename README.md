@@ -5,6 +5,8 @@ LLM-specific question files and shell scripts can be found in the folders: `llam
 
 Examples of how to generate in-context prompts can be found in the folder: `in_context`. 
 
+LLM Baseline and In-Context questions can be found in the folder: `questions`
+
 -----------------------------------------------------------------------------------------------------
 
 Follow the directions here: https://github.com/facebookresearch/llama to download the Llama models (7b, 13b, 70b).
