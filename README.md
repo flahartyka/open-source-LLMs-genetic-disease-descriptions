@@ -15,3 +15,11 @@ The C++ version of Llama-2-chat-70b can be downloaded here after the original we
 
 
 Follow the directions here: https://github.com/lm-sys/FastChat/blob/main/docs/vicuna_weights_version.md to download the Vicuna-v1.3 models (7b, 13b, 33b)
+
+-----------------------------------------------------------------------------------------------------
+
+The links to the supplementary information for this study can be found here:
+Supplementary File 1: 
+Supplementary File 2:
+Supplementary File 3:
+Supplementary File 4: 
