@@ -5,7 +5,7 @@ LLM-specific question files and shell scripts can be found in the folders: `llam
 
 Examples of how to generate in-context prompts using both KNN methods (TFIDF and Roberta) can be found in the folder: `in_context`. 
 
-LLM Baseline and In-Context questions can be found in the folder: `questions`
+LLM Baseline and In-Context questions can be found in the folder: `questions` and in `File S1` of Supplemental Material
 
 -----------------------------------------------------------------------------------------------------
 
