@@ -18,4 +18,4 @@ Follow the directions here: https://github.com/lm-sys/FastChat/blob/main/docs/vi
 
 -----------------------------------------------------------------------------------------------------
 
-The links to the supplementary information for this study can be found here: https://drive.google.com/drive/folders/1laG7OIIkMRNdcsTlqFgLPfTxld7O2Z3H?usp=drive_link
+The links to the supplemental information for this study can be found here: https://drive.google.com/drive/folders/1laG7OIIkMRNdcsTlqFgLPfTxld7O2Z3H?usp=drive_link
